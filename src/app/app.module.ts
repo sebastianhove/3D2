@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { ThreedeeComponent } from './threedee/threedee.component';
 import { HomeComponent } from './home/home.component';
 import { EngineComponent } from './engine/engine.component';
+import { SphereComponent } from './sphere/sphere.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { EngineComponent } from './engine/engine.component';
     NavbarComponent,
     ThreedeeComponent,
     HomeComponent,
-    EngineComponent
+    EngineComponent,
+    SphereComponent
   ],
   imports: [
     BrowserModule,
