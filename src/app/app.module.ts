@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ThreedeeComponent } from './threedee/threedee.component';
 import { HomeComponent } from './home/home.component';
+import { EngineComponent } from './engine/engine.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     ThreedeeComponent,
-    HomeComponent
+    HomeComponent,
+    EngineComponent
   ],
   imports: [
     BrowserModule,
