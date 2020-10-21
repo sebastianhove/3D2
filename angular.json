@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ThreeDeeTwo"
+    }
+  },
+  "defaultProject": "ThreeDeeTwo",
+  "cli": {
+    "analytics": false
+  }
 }
